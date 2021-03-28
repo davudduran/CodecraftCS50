@@ -1,0 +1,8 @@
+print()
+print("53 karakterimiz var")
+print("            53 = 53")
+print("         53*53 = {:,}".format(53*53))
+print("      53*53*53 = {:,}".format(53*53*53))
+print("   53*53*53*53 = {:,}".format(53*53*53*53))
+print("53*53*53*53*53 = {:,}".format(53*53*53*53*53))
+print()
